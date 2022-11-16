@@ -2,7 +2,7 @@
 <div align = "center">
     <img src = "icon.png" height = "320px" width = "auto"/>
     <br>
-    <img src = "https://img.shields.io/badge/age-18-brightgreen">
+    <img src = "https://img.shields.io/badge/age-19-brightgreen">
     <img src = "https://img.shields.io/badge/language-Japanese-brightgreen">
     <img src = "https://img.shields.io/badge/favourite-TypeScript-3178c6">
 </div>  
